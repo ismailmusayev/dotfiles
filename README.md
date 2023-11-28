@@ -8,4 +8,5 @@ and run this command
 yay -S hyprland hyprpaper wlogout waybar brave otf-font-awesome rofi alacritty 
 
 ```
-- Watch this tutorial video
+
+# Watch this tutorial video
